@@ -1,0 +1,6 @@
+Nb of proteins:
+1
+Nb of plates:
+1
+Name of Proteins:
+streptavidin
