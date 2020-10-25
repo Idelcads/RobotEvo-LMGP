@@ -1,6 +1,6 @@
 ## RobotEvo-LMGP
 
-I'm using `PyTorch-cpu 1.1.0`, `Scipy 1.5.2`, `Lasagne 0.2.dev1` and `Tensorflow 2.1.0` in `Python 3.7`.
+I'm using `numpy 1.19.1`, in `Python 3.7`.
 
 ---
 # Utilisation du code
