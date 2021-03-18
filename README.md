@@ -1,4 +1,4 @@
-## RobotEvo-LMGP School Project
+## RobotEvo-LMGP School Project (December 2019)
 
 I'm using `numpy 1.19.1`, in `Python 3.7`.
 
